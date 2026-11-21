@@ -61,19 +61,6 @@ My current focus is moving beyond simply building features toward understanding 
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" align="absmiddle" /> Tailwind CSS
 
 ---
-## Featured Projects
-
-Projects will be added here soon.
-
-<!--
-Template for each project:
-
-### [Project Name](https://github.com/hteteain05-spec/repo-name)
-Short description of what it does.
-**Tech:** HTML, CSS, JavaScript | [Live demo](https://your-live-link.com)
--->
-
----
 
 ## 📊 GitHub Statistics
 
