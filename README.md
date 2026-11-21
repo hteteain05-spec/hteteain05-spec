@@ -58,6 +58,7 @@ My current focus is moving beyond simply building features toward understanding 
 
 <img src="https://skillicons.dev/icons?i=react" width="40" align="absmiddle" /> React Native &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" align="absmiddle" /> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" width="40" align="absmiddle" /> TypeScript &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" align="absmiddle" /> Tailwind CSS
 
 ---
